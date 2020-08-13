@@ -8,7 +8,7 @@ This purpose of this project was to create an employee directory with React. Thi
 
 ## Table of Contents
   
-[Deployed-Application](#deployed-application)
+[Deployment](#deployment)
   
 [User-Story](#user-story)
   
@@ -22,9 +22,9 @@ This purpose of this project was to create an employee directory with React. Thi
 
 [License](#license)
 
-## Deployed-Applicatiom
+## Deployment
 
-https://moha0477.github.io/ReactEmployeeDirectory/
+**[Link to deployed application!](https://moha0477.github.io/ReactEmployeeDirectory/)**
 
 ## User-Story
 
