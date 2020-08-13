@@ -42,7 +42,11 @@ Reference the Random User API for generating users
 ## Contributors
 
 Andrew Westgard
+
+Salma Mohamed
+
 Solomon Obure 
+
 Trier Buhrsmith
 
 ## License 
