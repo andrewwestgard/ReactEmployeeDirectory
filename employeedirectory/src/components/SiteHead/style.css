@@ -1,6 +1,6 @@
 .wrapper {
     height: 200px;
-    background-color: rgb(137, 184, 247);
+    background-color: rgb(247, 199, 137);
     display: flex;
     align-items: center;
     align-content: center;
@@ -12,14 +12,15 @@
 }
 
 .title {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
     font-weight: bolder;
 
 }
 
 .tagline {
 
-font-size: large;
+font-size: 19px;
 font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }

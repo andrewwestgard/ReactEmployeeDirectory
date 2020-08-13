@@ -9,7 +9,7 @@ Employee Directory
     </div>
     <br></br>
     <div className = "tagline">
-All Relevant Information on All Employees, All the Time
+View Entire Employee Directory Here!
     </div>
 </div>
 
